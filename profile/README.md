@@ -2,8 +2,6 @@
 
 Gaming on mobile devices has made huge strides, and APS3e APK is leading the charge. This amazing PS3 emulator allows Android users to play their favorite PlayStation 3 games directly on their smartphones and tablets, bringing console-quality gaming to your fingertips like never before.
 
-![APS3e APK](file:///C:/Users/Sarfaraz/Downloads/download.gif) <!-- Replace with your actual image URL -->
-
 <!-- Button with background color using HTML -->
 <p><a href="https://aps3eapk.com/" class="download-btn">Download APS3e APK Now</a></p>
 
